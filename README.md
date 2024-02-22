@@ -16,11 +16,11 @@ Em meus estudos pessoais busco me manter atualizado com a evolução das tecnolo
 
 
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-villacorta-4ab316204/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://www.linkedin.com/in/ivan-villacorta-4ab316204/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-villacorta-4ab316204/" target="_blank" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5511975869554&text=ol%C3%A1%20Ivan,%20preciso%20de%20job!" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511975869554&text=ol%C3%A1%20Ivan,%20preciso%20de%20job!" alt="WhatsApp"/></a>
-<a href="#" title="Outlook">
+<a href="mailto:ivan_mv23@hotmail.com" title="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoft-outlook&logoColor=white&link=ivan_mv23@hotmail.com" alt="Outlook"/></a>
 </p>
 
